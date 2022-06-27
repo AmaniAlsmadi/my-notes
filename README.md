@@ -38,6 +38,6 @@ To keep your software as simple as possible. You can protect it from being an un
 24. Don’t be a hero
 25. Don’t Ask Questions… Ask For Help
 
-[To know more about these point](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
+[To know more about these points](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
 
 
